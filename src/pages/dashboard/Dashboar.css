@@ -1,0 +1,11 @@
+
+.table-container {
+    overflow: auto;
+    max-height: 1100px; /* Ajustez la hauteur maximale en fonction de vos besoins */
+  }
+
+  .card_body{
+    overflow-y: hidden;
+    max-height: 485px;
+  }
+
